@@ -20,8 +20,7 @@
     int a= 1;
     a=1+2;
     
-    //i am fixbug
-    
+    //fixbug2
 }
 
 
