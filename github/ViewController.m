@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     int a= 1;
-    a=1+1;
+    a=1+2;
 }
 
 
